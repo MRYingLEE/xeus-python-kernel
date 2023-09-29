@@ -15,5 +15,3 @@ dependencies:
   - nodejs=20
   - mamba
   - numpy
-  - matplotlib
-  - ipycanvas
